@@ -1,0 +1,23 @@
+[TraceId: ] 2025-06-09 17:37:02.021 [main] INFO  com.blog.weblogweb.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_311 on baby with PID 26308 (D:\coding\intellij\projectrepo\weblog-springboot\weblog-web\target\classes started by baby in D:\coding\intellij\projectrepo\weblog-springboot)
+[TraceId: ] 2025-06-09 17:37:02.023 [main] INFO  com.blog.weblogweb.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2025-06-09 17:37:02.744 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2025-06-09 17:37:02.751 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2025-06-09 17:37:02.753 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2025-06-09 17:37:02.828 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2025-06-09 17:37:02.828 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 748 ms
+[TraceId: ] 2025-06-09 17:37:03.142 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2025-06-09 17:37:03.147 [main] INFO  com.blog.weblogweb.WeblogWebApplication - Started WeblogWebApplication in 1.524 seconds (JVM running for 1.751)
+[TraceId: ] 2025-06-09 17:37:25.331 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[TraceId: ] 2025-06-09 17:37:25.332 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[TraceId: ] 2025-06-09 17:37:25.333 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[TraceId: aa88ef60-e84f-4796-ac43-90f1aa7b0fbb] 2025-06-09 17:37:25.425 [http-nio-8080-exec-1] INFO  c.b.w.aspect.ApiOperationLogAspect - ====== 请求开始: [测试接口], 入参: {"username":"liye","sex":24}, 请求类: TestController, 请求方法: test =================================== 
+[TraceId: aa88ef60-e84f-4796-ac43-90f1aa7b0fbb] 2025-06-09 17:37:25.433 [http-nio-8080-exec-1] INFO  c.b.w.aspect.ApiOperationLogAspect - ====== 请求结束: [测试接口], 耗时: 14ms, 出参: {"username":"liye","sex":24} =================================== 
+[TraceId: ] 2025-06-09 17:37:35.769 [main] INFO  com.blog.weblogweb.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_311 on baby with PID 45924 (D:\coding\intellij\projectrepo\weblog-springboot\weblog-web\target\classes started by baby in D:\coding\intellij\projectrepo\weblog-springboot)
+[TraceId: ] 2025-06-09 17:37:35.771 [main] INFO  com.blog.weblogweb.WeblogWebApplication - The following profiles are active: prod
+[TraceId: ] 2025-06-09 17:37:36.402 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2025-06-09 17:37:36.409 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2025-06-09 17:37:36.409 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[TraceId: ] 2025-06-09 17:37:36.488 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2025-06-09 17:37:36.488 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 655 ms
+[TraceId: ] 2025-06-09 17:37:36.778 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2025-06-09 17:37:36.784 [main] INFO  com.blog.weblogweb.WeblogWebApplication - Started WeblogWebApplication in 1.361 seconds (JVM running for 1.594)

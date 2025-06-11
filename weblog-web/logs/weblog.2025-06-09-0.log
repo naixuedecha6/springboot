@@ -1,0 +1,7 @@
+2025-06-09 15:16:46.738 [main] INFO  com.blog.weblogweb.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 1.8.0_311 on baby with PID 43900 (started by baby in D:\coding\intellij\projectrepo\weblog-springboot\weblog-web)
+2025-06-09 15:16:46.739 [main] INFO  com.blog.weblogweb.WeblogWebApplicationTests - The following profiles are active: prod
+2025-06-09 15:16:47.598 [main] INFO  com.blog.weblogweb.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 1.162 seconds (JVM running for 1.801)
+2025-06-09 15:16:47.767 [main] INFO  com.blog.weblogweb.WeblogWebApplicationTests - 这是一行 Info 级别日志
+2025-06-09 15:16:47.767 [main] WARN  com.blog.weblogweb.WeblogWebApplicationTests - 这是一行 Warn 级别日志
+2025-06-09 15:16:47.768 [main] ERROR com.blog.weblogweb.WeblogWebApplicationTests - 这是一行 Error 级别日志
+2025-06-09 15:16:47.768 [main] INFO  com.blog.weblogweb.WeblogWebApplicationTests - 这是一行带有占位符日志，作者：犬小哈
